@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Final Study Guide"
             }
+          },
+          {
+            "id": "10973181ccb1aa35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Final"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "85fb3a43e6c6aadd",
+  "active": "10973181ccb1aa35",
   "lastOpenFiles": [
-    "4. Momentum.md",
     "Final Study Guide.md",
+    "Practice Final.md",
+    "4. Momentum.md",
     "Images/Screenshot 2025-11-19 144958.png",
     "Images/desktop.ini",
     "Images/Screenshot 2025-11-19 145119.png",
